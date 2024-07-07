@@ -13,3 +13,30 @@ O objetivo deste desafio é aplicar os conhecimentos adquiridos no módulo de Ne
 - TypeScript: Superset do JavaScript que adiciona tipos estáticos.
 - CSS-in-JS: Estilização de componentes React usando bibliotecas como styled-components.
 - Serviços de Nuvem: Integração com serviços de nuvem para tornar seu blog dinâmico.
+
+
+<br>
+
+## 👨‍💻 Expert
+
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://avatars.githubusercontent.com/u/44373172"
+    />
+    <p>&nbsp&nbsp&nbspFabio Augusto<br>
+    &nbsp&nbsp&nbsp
+    <a href="https://github.com/fabiocasadossites">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/fabioasa/">LinkedIn</a>
+&nbsp;|&nbsp;
+    <a href="https://www.fabioaugusto.dev/">
+    Portfolio </a>
+&nbsp;&nbsp;</p>
+</p>
+<br/>
+<p>
+
+💻 com ❤️ por [Fabio Augusto](https://github.com/fabiocasadossites)
